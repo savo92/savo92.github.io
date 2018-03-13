@@ -1,0 +1,14 @@
+[[works]]
+company = "Develer s.r.l."
+company_website = "https://develer.it"
+title = "Full Stack Developer"
+start_date = "2016-08-01"
+description_filename = ""
+
+[[works]]
+company = "Man-Super!"
+company_website = "http://www.man-super.com/"
+title = "Web Developer"
+start_date = "2013-03-01"
+end_date = "2017-07-01"
+description_filename = ""

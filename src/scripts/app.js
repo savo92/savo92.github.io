@@ -1,6 +1,7 @@
 import { h, Component } from "preact";
 
 import Summary from "./components/summary";
+import Works from "./components/works";
 
 export default class App extends Component {
 
@@ -10,6 +11,10 @@ export default class App extends Component {
                 <div class="row">
                     <Summary />
                 </div>
+                <div class="row">
+                    <Works />
+                </div>
+
             </div>
         );
     }
