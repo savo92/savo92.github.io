@@ -1,20 +1,19 @@
 import { h, Component } from "preact";
 
-import Summary from "./components/summary";
-import Works from "./components/works";
+import Summary from "./sections/summary";
+import Works from "./sections/works";
 
 export default class App extends Component {
 
     render() {
         return (
-            <div class="container">
+            <div class="ui vertically divided grid">
                 <div class="row">
                     <Summary />
                 </div>
                 <div class="row">
                     <Works />
                 </div>
-
             </div>
         );
     }

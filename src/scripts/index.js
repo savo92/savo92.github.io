@@ -1,4 +1,4 @@
-import "milligram";
+import 'semantic-ui-css/semantic.min.css';
 import "../styles/main.scss";
 import { h, render } from "preact";
 
