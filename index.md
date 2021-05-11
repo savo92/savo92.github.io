@@ -18,11 +18,12 @@ I work for an Italian company since 2016, [Develer](develer.com), on the web app
 
 I'm also responsible for the TPS program, monthly appointments where Develer employees talk about new tools or technologies they are using, post mortems, or anything they want to share with the others. Some of these TPS are publicly available on [YouTube](https://www.youtube.com/playlist?list=PLPGJdxeQ35eAHgEfkfChN_8gN5CJCF9tw).
 
-#### Publications, talks
+#### Publications, talks, blogposts
 
 - [Sviluppo di un’interfaccia web con TypeScript, React e Webpack (ITA)](https://youtu.be/J55oIFzXxTA)
 - [TPS: Smoke testing con Cypress (ITA)](https://youtu.be/xlatMuLAVDM)
 - [Introduzione a Buildkite: un’alternativa per la tua CI (ITA)](https://youtu.be/woBINK14cGQ)
+- [UI smoke-testing with Cypress (EN)](https://tech.nextroll.com/blog/dev/2021/05/11/frontend-smoke-testing-with-cypress.html)
 
 ### Contacts
 
