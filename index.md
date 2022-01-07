@@ -8,7 +8,7 @@ I'm a Full Stack Developer, from Italy!
 
 I'm passionate about learning how things work, and I'm not talking about tech/software development only.
 
-In Italy, I volunteer as an emergency first responder. I'm not a doctor nor a nurse btw: in Italy, the law allows normal people to be part of an ambulance team, with limited capabilities like CPR, trauma first treatment and basic evaluations. 
+In Italy, I volunteer as an emergency first responder.
 
 I really like to go hiking/trekking, and cooking.
 
