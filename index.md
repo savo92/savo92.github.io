@@ -27,6 +27,6 @@ I'm also responsible for the TPS program, monthly appointments where Develer emp
 
 Want to get in touch?
 
-- [Twitter](https://twitter.com/Savo_92)
 - [LinkedIn](https://linkedin.com/in/lorenzosavini)
-- [Instagram](https://www.instagram.com/lorenzo__s/)
+- [Twitter](https://twitter.com/Savo_92)
+
