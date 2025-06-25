@@ -6,15 +6,9 @@ Hey! I'm Lorenzo and this is just my personal page.
 
 I'm a Full Stack Developer, from Italy!
 
-In Italy, I volunteer as an emergency first responder.
-
-Among my hobbies, I really like to go hiking/trekking.
-
 ### Work
 
 I work for an Italian company since 2016, [Develer](develer.com), on the web applications of an [US marketing technology company](https://www.develer.com/en/case-studies/software-and-microservices-development-for-nextroll/).
-
-I'm also responsible for the TPS program, monthly appointments where Develer employees talk about new tools or technologies they are using, post mortems, or anything they want to share with the others. Some of these TPS are publicly available on [YouTube](https://www.youtube.com/playlist?list=PLPGJdxeQ35eAHgEfkfChN_8gN5CJCF9tw).
 
 #### Publications, talks, blogposts
 
@@ -28,5 +22,3 @@ I'm also responsible for the TPS program, monthly appointments where Develer emp
 Want to get in touch?
 
 - [LinkedIn](https://linkedin.com/in/lorenzosavini)
-- [Twitter](https://twitter.com/Savo_92)
-
