@@ -4,7 +4,7 @@
 
 Hey! I'm Lorenzo and this is just my personal page.
 
-I'm a Full Stack Developer, from Italy!
+I'm a Tech Leader / Senior Full Stack Developer, from Italy!
 
 ### Work
 
